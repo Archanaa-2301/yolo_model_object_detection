@@ -1,0 +1,11 @@
+train: merged/images/train
+val: merged/images/val
+test: merged/images/test
+
+nc: 5
+names:
+  - pothole
+  - crack
+  - manhole
+  - barricade
+  - debris
